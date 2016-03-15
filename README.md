@@ -1,7 +1,7 @@
 # connections
 The Connections Subtree
 
-Puprpose: To hide the implementation of a specific (database) connection (e.g. RethinkDB) by providing a plain vanilla connection interface.
+Purpose: To hide the implementation of a specific (database) connection (e.g. RethinkDB) by providing a plain vanilla connection interface.
 
 ##Connections in RethinkDB
 
